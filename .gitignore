@@ -1,0 +1,12 @@
+.classpath
+.project
+target
+.idea/
+*.iml
+build/
+.gradle/
+.mvn/
+.gradle/
+.DS_Store
+.asscache
+out/
