@@ -88,3 +88,10 @@ AnyWorkspace充分自信在以下事项上，相比传统有下面几大优势�
 你愿意为一个美好点的未来，而努力吗？
 
 
+## 开源地址
+
+
+https://github.com/takemefly100/anyworkspace
+
+https://gitee.com/golddata/anyworkspace
+
